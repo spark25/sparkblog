@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/sparkblog/static/css/main.deac581a.chunk.css",
-    "main.js": "/sparkblog/static/js/main.ff53115d.chunk.js",
-    "main.js.map": "/sparkblog/static/js/main.ff53115d.chunk.js.map",
+    "main.js": "/sparkblog/static/js/main.3471750d.chunk.js",
+    "main.js.map": "/sparkblog/static/js/main.3471750d.chunk.js.map",
     "runtime-main.js": "/sparkblog/static/js/runtime-main.76c922d9.js",
     "runtime-main.js.map": "/sparkblog/static/js/runtime-main.76c922d9.js.map",
     "static/js/2.21fd718f.chunk.js": "/sparkblog/static/js/2.21fd718f.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.76c922d9.js",
     "static/js/2.21fd718f.chunk.js",
     "static/css/main.deac581a.chunk.css",
-    "static/js/main.ff53115d.chunk.js"
+    "static/js/main.3471750d.chunk.js"
   ]
 }
