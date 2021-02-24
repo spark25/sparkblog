@@ -8,7 +8,7 @@ import NotFound from './NotFound.jsx';
 
 function App() {
   return (
-    <Router>
+    <Router  basename="/sparkblog">
       <div className="App">
         <Navbar />
         <div className="content">
