@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/sparkblog/static/css/main.deac581a.chunk.css",
+    "main.js": "/sparkblog/static/js/main.ff53115d.chunk.js",
+    "main.js.map": "/sparkblog/static/js/main.ff53115d.chunk.js.map",
+    "runtime-main.js": "/sparkblog/static/js/runtime-main.76c922d9.js",
+    "runtime-main.js.map": "/sparkblog/static/js/runtime-main.76c922d9.js.map",
+    "static/js/2.21fd718f.chunk.js": "/sparkblog/static/js/2.21fd718f.chunk.js",
+    "static/js/2.21fd718f.chunk.js.map": "/sparkblog/static/js/2.21fd718f.chunk.js.map",
+    "index.html": "/sparkblog/index.html",
+    "static/css/main.deac581a.chunk.css.map": "/sparkblog/static/css/main.deac581a.chunk.css.map",
+    "static/js/2.21fd718f.chunk.js.LICENSE.txt": "/sparkblog/static/js/2.21fd718f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.76c922d9.js",
+    "static/js/2.21fd718f.chunk.js",
+    "static/css/main.deac581a.chunk.css",
+    "static/js/main.ff53115d.chunk.js"
+  ]
+}
